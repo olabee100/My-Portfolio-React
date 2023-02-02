@@ -15,7 +15,7 @@ const Education = () => {
             <p>2016-2022</p>
             </div>
 
-            <hr />
+            
               <div className="right-2">
             <h2>HOLBERTON SCHOOL(Alx Africa) </h2>
             <h3>Software Engineering</h3>
