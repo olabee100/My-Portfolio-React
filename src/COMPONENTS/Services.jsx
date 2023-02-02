@@ -15,7 +15,7 @@ const Services = () => {
         <h1>Services I Render</h1>
         <p>
             I offer various services ranging from instructor led trainings , responsive website design, app developments and so on. <br />
-            Some can be seen below.....
+            Some can be seen below....
         </p>
         <div className = "topRendered">
         <ServicesRendered bimage={html} bigtext={'HTML'} smalltext={'I design websites from its skeletal system "HTML" and code from the scratch. '} />
