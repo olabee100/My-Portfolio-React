@@ -1,0 +1,21 @@
+.exp-body {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+
+.exp-header {
+  text-align: center;
+  color: rgba(245, 156, 156, 0.671);
+  padding-bottom: 35px;
+}
+
+.exp-content {
+  color: rgba(245, 156, 156, 0.671);
+  padding-left: 10px;
+  line-height: 30px;
+}
+
+.content-1 {
+  padding-top: 20px;
+}

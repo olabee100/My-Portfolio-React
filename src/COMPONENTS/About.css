@@ -1,0 +1,13 @@
+.allOfMe {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(177, 22, 22, 0.356);
+  height: 45vh;
+}
+
+.allOfMe p {
+  text-align: center;
+  color: black;
+}
